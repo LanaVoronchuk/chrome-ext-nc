@@ -1,0 +1,10 @@
+{
+  "name": "CRM extension for Chrome",
+  "version": "1.0",
+   "manifest_version": 2,
+  "description": "This extension connects social media profiles to CRM",
+  "browser_action": {
+    "default_icon": "chrome_logo.png",
+    "default_popup": "popup_login.html"
+  }
+}
